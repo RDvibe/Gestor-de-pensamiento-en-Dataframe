@@ -28,7 +28,7 @@ pip install pandas colorama
 Para ejecutar el script, navega en la terminal hasta el directorio donde se encuentra el archivo `.py` y ejecuta:
 
 ```
-python nombre_del_script.py
+python main.py
 ```
 
 Sigue las instrucciones en pantalla para gestionar tus pensamientos. Elige entre insertar un nuevo pensamiento, visualizar los pensamientos existentes, borrar pensamientos o salir del script.
